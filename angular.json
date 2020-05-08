@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MedicosAPP"
+    }
+  },
+  "defaultProject": "MedicosAPP",
+  "cli": {
+    "analytics": false
+  }
 }
